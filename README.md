@@ -1,4 +1,18 @@
-###  Hello World 👋 I am Alok Raj
+### 👋 I am Alok Raj
+- 🌏 India
+- 👨🏻‍💻 Software Developer @[Hindustan Times](https://www.hindustantimes.com/)
+- Extrovert
+- Beleives in Humanity
+
+### Tech Talks
+- Currently learning React, Next and also working with FTL, HTML, Javascript.
+- Perviously worked with Cocos, developed some 2D games for the client
+- I have liitle overview of iOS development.
+
+### Other Hobbies
+- 🎭 Acting/Theatre
+- 🕺 Dancing
+- 🏐 Volleyball 🏓 Table Tennis 🏸 Badminton  🏏 Cricket  
 
 <!--
 **alokhub/alokhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,17 +28,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### About Me
-- 🌏 India
-- 👨🏻‍💻 Software Developer @[Hindustan Times](https://www.hindustantimes.com/)
-- Extrovert
-- Beleives in Humanity
-
-### Other Hobbies
-- 🎭 Acting/Theatre
-- 🕺 Dancing
-- 🏐 Volleyball   🏓 Table Tennis   🏏 Cricket  🏸 Badminton
-
-### Lets Connect
-- [Linkedin](https://www.linkedin.com/in/alok--raj/)
