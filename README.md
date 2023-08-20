@@ -5,8 +5,9 @@
 - Beleives in Humanity
 
 ### Tech Talks
-- Currently learning React, Next and also working with FTL, HTML, Javascript.
-- Perviously worked with Cocos, developed some 2D games for the client
+- Currently working on React, Next and also working with FTL, HTML, Javascript.
+- Handling backend with JAVA.
+- Perviously worked with Cocos, developed some 2D games for the client.
 - I have liitle overview of iOS development.
 
 ### Other Hobbies
