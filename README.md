@@ -2,7 +2,7 @@
 - 🌏 India
 - 👨🏻‍💻 Software Developer @[Hindustan Times](https://www.hindustantimes.com/)
 - Extrovert
-- Beleives in Humanity
+- Believes in Humanity
 
 ### Tech Talks
 - Currently working on React, Next and also working with FTL, HTML, Javascript.
